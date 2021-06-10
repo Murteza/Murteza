@@ -16,9 +16,9 @@
 <a href="#"><img title="MzTeam" src="https://img.shields.io/badge/Murteza-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/api-zeeoneofc/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Murteza/api-murteza?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/api-zeeoneofc/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Murteza/api-murteza?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Murteza/followers"><img title="Followers" src="https://img.shields.io/github/followers/Murteza?color=red&style=flat-square"></a>
+<a href="https://github.com/Murteza/README.md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Murteza/README.MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Murteza/README.md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Murteza/README.ms?label=Watchers&color=blue&style=flat-square"></a>
 
 </p>
 
