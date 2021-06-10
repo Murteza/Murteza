@@ -1,6 +1,5 @@
+![mrtz](https://user-images.githubusercontent.com/73004977/121497063-41a65880-ca05-11eb-8160-1e6ff38720ce.jpg)
 
-<p align="center">
-   <a href="https://github.com/Murteza" src="https://github.com/TheDudeThatCode/Assets/Mario_Gameplay.gif"></a>
 
 </p>
 
@@ -17,8 +16,8 @@
 </p>
 <p align="center">
 <a href="https://github.com/Murteza/followers"><img title="Followers" src="https://img.shields.io/github/followers/Murteza?color=red&style=flat-square"></a>
-<a href="https://github.com/Murteza/README.md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Murteza/README.MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Murteza/README.md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Murteza/README.ms?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Murteza/api-murteza/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Murteza/api-murteza?color=blue&style=flat-square"></a>
+<a href="https://github.com/Murteza/api-murteza/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Murteza/api-murteza?label=Watchers&color=blue&style=flat-square"></a>
 
 </p>
 
