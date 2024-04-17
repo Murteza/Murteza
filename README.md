@@ -23,9 +23,9 @@
 
 ## Contact
 <p align='center'>
-   <a href="https://wa.me/6281336141029"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/muzakki.murteza"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a> 
+   <a href="https://wa.me/6287739874268"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/murtzzaa_"><img height="30" src="https://images.app.goo.gl/2BR9qdupyD7uUBu27"></a> 
 
 ## Website Api
-Check it yourself [Here](https://api-murteza.herokuapp.com)
+Check it yourself [Soon](https://api-murteza.herokuapp.com)
 
