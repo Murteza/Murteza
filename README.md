@@ -24,7 +24,7 @@
 ## Contact
 <p align='center'>
    <a href="https://wa.me/6287739874268"><img height="30" src="https://th.bing.com/th/id/OIP.Go2CQNhF_49tkKcpEl_sHQHaHZ?rs=1&pid=ImgDetMain"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/murtzzaa_"><img height="30" src="https://images.app.goo.gl/2BR9qdupyD7uUBu27"></a> 
+   <a href="https://instagram.com/murtzzaa_"><img height="30" src="https://th.bing.com/th/id/R.2fe9f94df745b01be3326ecc2367f06e?rik=bMn6KTmPQIz0rg&riu=http%3a%2f%2fwww.androidheadlines.com%2fwp-content%2fuploads%2f2016%2f05%2fInstagram_AppIcon.jpg&ehk=p%2b1oGHC2Xr%2b%2fB%2fxPAJuJrhF5EqqG%2b8eL5oc%2bq%2bBi9dA%3d&risl=&pid=ImgRaw&r=0"></a> 
 
 ## Website Api
 Check it yourself [Soon](https://api-murteza.herokuapp.com)
