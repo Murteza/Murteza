@@ -23,7 +23,7 @@
 
 ## Contact
 <p align='center'>
-   <a href="https://wa.me/6287739874268"><img height="30" src="[https://th.bing.com/th/id/OIP.Go2CQNhF_49tkKcpEl_sHQHaHZ?rs=1&pid=ImgDetMain](https://www.freeiconspng.com/uploads/whatsapp-logo-background-29.png)"></a>&nbsp;&nbsp;
+   <a href="https://wa.me/6287739874268"><img height="30" src="https://static.vecteezy.com/system/resources/previews/018/819/295/large_2x/whatsapp-icon-transparent-free-png.png"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/murtzzaa_"><img height="30" src="https://webstockreview.net/images/instagram-clipart.png"></a> 
 
 ## Website Api
